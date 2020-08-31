@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c893d80702951511da48719a4ff9f3a0",
+    "revision": "54701109e89d4e19f665b2f15f13ef45",
     "url": "/aksels-bursdag/index.html"
   },
   {
-    "revision": "2c89925a32e40291536e",
+    "revision": "f2631142bc986835f0e7",
     "url": "/aksels-bursdag/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "14aa242d49d75c20a027",
-    "url": "/aksels-bursdag/static/js/2.022ac952.chunk.js"
+    "revision": "cc2a65473d604c8a1228",
+    "url": "/aksels-bursdag/static/js/2.cd3e965c.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/aksels-bursdag/static/js/2.022ac952.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/aksels-bursdag/static/js/2.cd3e965c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c89925a32e40291536e",
-    "url": "/aksels-bursdag/static/js/main.5b110b59.chunk.js"
+    "revision": "f2631142bc986835f0e7",
+    "url": "/aksels-bursdag/static/js/main.962b0764.chunk.js"
   },
   {
     "revision": "cbdbeea027c846e8c1a2",

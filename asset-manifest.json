@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/aksels-bursdag/static/css/main.5f361e03.chunk.css",
-    "main.js": "/aksels-bursdag/static/js/main.5b110b59.chunk.js",
-    "main.js.map": "/aksels-bursdag/static/js/main.5b110b59.chunk.js.map",
+    "main.js": "/aksels-bursdag/static/js/main.962b0764.chunk.js",
+    "main.js.map": "/aksels-bursdag/static/js/main.962b0764.chunk.js.map",
     "runtime-main.js": "/aksels-bursdag/static/js/runtime-main.0ff20785.js",
     "runtime-main.js.map": "/aksels-bursdag/static/js/runtime-main.0ff20785.js.map",
-    "static/js/2.022ac952.chunk.js": "/aksels-bursdag/static/js/2.022ac952.chunk.js",
-    "static/js/2.022ac952.chunk.js.map": "/aksels-bursdag/static/js/2.022ac952.chunk.js.map",
+    "static/js/2.cd3e965c.chunk.js": "/aksels-bursdag/static/js/2.cd3e965c.chunk.js",
+    "static/js/2.cd3e965c.chunk.js.map": "/aksels-bursdag/static/js/2.cd3e965c.chunk.js.map",
     "index.html": "/aksels-bursdag/index.html",
-    "precache-manifest.509782a2e3aef03c5b8777a4f4a9b631.js": "/aksels-bursdag/precache-manifest.509782a2e3aef03c5b8777a4f4a9b631.js",
+    "precache-manifest.1cf17c7cc79f5f9e65d3382a6249c36c.js": "/aksels-bursdag/precache-manifest.1cf17c7cc79f5f9e65d3382a6249c36c.js",
     "service-worker.js": "/aksels-bursdag/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/aksels-bursdag/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.022ac952.chunk.js.LICENSE.txt": "/aksels-bursdag/static/js/2.022ac952.chunk.js.LICENSE.txt",
+    "static/js/2.cd3e965c.chunk.js.LICENSE.txt": "/aksels-bursdag/static/js/2.cd3e965c.chunk.js.LICENSE.txt",
     "static/media/IMG_1800.jpeg": "/aksels-bursdag/static/media/IMG_1800.fe003bb0.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ff20785.js",
-    "static/js/2.022ac952.chunk.js",
+    "static/js/2.cd3e965c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5b110b59.chunk.js"
+    "static/js/main.962b0764.chunk.js"
   ]
 }
