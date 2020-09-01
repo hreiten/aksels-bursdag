@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aksels-bursdag/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/aksels-bursdag/static/js/main.254fd2c6.chunk.js",
-    "main.js.map": "/aksels-bursdag/static/js/main.254fd2c6.chunk.js.map",
+    "main.js": "/aksels-bursdag/static/js/main.ed8292df.chunk.js",
+    "main.js.map": "/aksels-bursdag/static/js/main.ed8292df.chunk.js.map",
     "runtime-main.js": "/aksels-bursdag/static/js/runtime-main.0ff20785.js",
     "runtime-main.js.map": "/aksels-bursdag/static/js/runtime-main.0ff20785.js.map",
     "static/js/2.4614f62e.chunk.js": "/aksels-bursdag/static/js/2.4614f62e.chunk.js",
     "static/js/2.4614f62e.chunk.js.map": "/aksels-bursdag/static/js/2.4614f62e.chunk.js.map",
     "index.html": "/aksels-bursdag/index.html",
-    "precache-manifest.68cba90dadaf48af7bbd79450fb7e8bf.js": "/aksels-bursdag/precache-manifest.68cba90dadaf48af7bbd79450fb7e8bf.js",
+    "precache-manifest.cfc3a148c4a0f7b01c9f9db5f8a8bb99.js": "/aksels-bursdag/precache-manifest.cfc3a148c4a0f7b01c9f9db5f8a8bb99.js",
     "service-worker.js": "/aksels-bursdag/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/aksels-bursdag/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.4614f62e.chunk.js.LICENSE.txt": "/aksels-bursdag/static/js/2.4614f62e.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.0ff20785.js",
     "static/js/2.4614f62e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.254fd2c6.chunk.js"
+    "static/js/main.ed8292df.chunk.js"
   ]
 }
