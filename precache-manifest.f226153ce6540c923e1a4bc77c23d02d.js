@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "720838fe0bfc0cd3de380ca1839dd747",
+    "revision": "079fc65974469e103d1882916c4f7750",
     "url": "/aksels-bursdag/index.html"
   },
   {

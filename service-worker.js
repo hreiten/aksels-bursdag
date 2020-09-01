@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aksels-bursdag/precache-manifest.af58b384c431577f24f8429a1a4b28bb.js"
+  "/aksels-bursdag/precache-manifest.f226153ce6540c923e1a4bc77c23d02d.js"
 );
 
 self.addEventListener('message', (event) => {
