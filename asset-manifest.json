@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/aksels-bursdag/static/css/main.5f361e03.chunk.css",
-    "main.js": "/aksels-bursdag/static/js/main.962b0764.chunk.js",
-    "main.js.map": "/aksels-bursdag/static/js/main.962b0764.chunk.js.map",
+    "main.css": "/aksels-bursdag/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/aksels-bursdag/static/js/main.254fd2c6.chunk.js",
+    "main.js.map": "/aksels-bursdag/static/js/main.254fd2c6.chunk.js.map",
     "runtime-main.js": "/aksels-bursdag/static/js/runtime-main.0ff20785.js",
     "runtime-main.js.map": "/aksels-bursdag/static/js/runtime-main.0ff20785.js.map",
-    "static/js/2.cd3e965c.chunk.js": "/aksels-bursdag/static/js/2.cd3e965c.chunk.js",
-    "static/js/2.cd3e965c.chunk.js.map": "/aksels-bursdag/static/js/2.cd3e965c.chunk.js.map",
+    "static/js/2.4614f62e.chunk.js": "/aksels-bursdag/static/js/2.4614f62e.chunk.js",
+    "static/js/2.4614f62e.chunk.js.map": "/aksels-bursdag/static/js/2.4614f62e.chunk.js.map",
     "index.html": "/aksels-bursdag/index.html",
-    "precache-manifest.1cf17c7cc79f5f9e65d3382a6249c36c.js": "/aksels-bursdag/precache-manifest.1cf17c7cc79f5f9e65d3382a6249c36c.js",
+    "precache-manifest.68cba90dadaf48af7bbd79450fb7e8bf.js": "/aksels-bursdag/precache-manifest.68cba90dadaf48af7bbd79450fb7e8bf.js",
     "service-worker.js": "/aksels-bursdag/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/aksels-bursdag/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cd3e965c.chunk.js.LICENSE.txt": "/aksels-bursdag/static/js/2.cd3e965c.chunk.js.LICENSE.txt",
-    "static/media/IMG_1800.jpeg": "/aksels-bursdag/static/media/IMG_1800.fe003bb0.jpeg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/aksels-bursdag/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4614f62e.chunk.js.LICENSE.txt": "/aksels-bursdag/static/js/2.4614f62e.chunk.js.LICENSE.txt",
+    "static/media/branca.png": "/aksels-bursdag/static/media/branca.c7094660.png",
+    "static/media/extra.png": "/aksels-bursdag/static/media/extra.64992bf5.png",
+    "static/media/face.png": "/aksels-bursdag/static/media/face.159e5d42.png",
+    "static/media/hooka.png": "/aksels-bursdag/static/media/hooka.7cb5ebe4.png",
+    "static/media/os.png": "/aksels-bursdag/static/media/os.c0b28df4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0ff20785.js",
-    "static/js/2.cd3e965c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.962b0764.chunk.js"
+    "static/js/2.4614f62e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.254fd2c6.chunk.js"
   ]
 }
