@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "079fc65974469e103d1882916c4f7750",
+    "revision": "7f5e9b14d74cf6cb4a2ceef9eb275746",
     "url": "/aksels-bursdag/index.html"
   },
   {
-    "revision": "fac81cb133aebc73c67f",
+    "revision": "9b48ef57a5d0d686e45a",
     "url": "/aksels-bursdag/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aksels-bursdag/static/js/2.a48fa95f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fac81cb133aebc73c67f",
-    "url": "/aksels-bursdag/static/js/main.11de5e88.chunk.js"
+    "revision": "9b48ef57a5d0d686e45a",
+    "url": "/aksels-bursdag/static/js/main.b60e10d7.chunk.js"
   },
   {
     "revision": "cbdbeea027c846e8c1a2",
