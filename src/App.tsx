@@ -174,7 +174,7 @@ function App() {
                   margin: "20px",
                 }}
               >
-                Reiten28
+                Reiten282
               </code>
               <br />
               <br /> for 28% rabatt på alle produkter fra Oskar Sylte!
